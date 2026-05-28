@@ -13,6 +13,6 @@ I like building clean and useful projects.
 
 <br><br>
 
-💬 Wanna chat? 👉 [Discord](https://discord.gg/kleinshop)
+💬 no#1 👉 [Discord](https://discord.gg/kleinshop)
 
 </div>
