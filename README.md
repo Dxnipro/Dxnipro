@@ -9,7 +9,7 @@ I like building clean and useful projects.
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=Dxnipro&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Dxnipro&label=Profile%20views&color=0e75b6&style=for-the-badge&base=199999&abbreviated=true)
 
 <br><br>
 
