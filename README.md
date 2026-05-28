@@ -37,7 +37,9 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Discord%20Bots-111827?style=for-the-badge&logo=discord&logoColor=8B5CF6" />
+&nbsp;
 <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=python&logoColor=8B5CF6" />
+&nbsp;
 <img src="https://img.shields.io/badge/Web%20Tools-111827?style=for-the-badge&logo=javascript&logoColor=8B5CF6" />
 
 </div>
@@ -46,12 +48,36 @@
 
 ## 🚀 Currently Working On
 
-```txt
-> Discord bot systems
-> Ticket and moderation tools
-> Automation projects
-> Clean UI and useful server tools
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td width="260" align="center">
+      <b>Discord Bot Systems</b>
+      <br>
+      <sub>Moderation, ticket and utility systems</sub>
+    </td>
+    <td width="260" align="center">
+      <b>Automation Projects</b>
+      <br>
+      <sub>Useful tools for faster workflows</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="260" align="center">
+      <b>Web Tools</b>
+      <br>
+      <sub>Clean and simple interfaces</sub>
+    </td>
+    <td width="260" align="center">
+      <b>Server Tools</b>
+      <br>
+      <sub>Helpful systems for communities</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -59,16 +85,36 @@
 
 <div align="center">
 
-<a href="https://discord.gg/kleinshop">
-  <img src="https://img.shields.io/badge/Discord%20Server-Klein%20Shop-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Discord-hat.e.-111827?style=for-the-badge&logo=discord&logoColor=8B5CF6" />
-<a href="https://www.tiktok.com/@eqwaai.k">
-  <img src="https://img.shields.io/badge/TikTok-eqwaai.k-111827?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://github.com/Dxnipro">
-  <img src="https://img.shields.io/badge/GitHub-Dxnipro-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://discord.gg/kleinshop">
+        <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+      <br>
+      <sub><b>Klein Shop</b></sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=8B5CF6" />
+      <br>
+      <sub><b>hat.e.</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.tiktok.com/@eqwaai.k">
+        <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" />
+      </a>
+      <br>
+      <sub><b>@eqwaai.k</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Dxnipro">
+        <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br>
+      <sub><b>Dxnipro</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
